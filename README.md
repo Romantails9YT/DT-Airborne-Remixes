@@ -12,7 +12,7 @@ Here is the current lineup of remixes included in the project:
 | **Airborne (PizzaPogg Remix)** | Heavy EDM/Chiptune | [PizzaPogg](url) | [SoundCloud Track](https://soundcloud.com) |
 | **Airborne (Revamp B-Side)** | Hardcore, Glitched | [Fern](url) | [SoundCloud Track](https://soundcloud.com/3am-kyle/airborne-revamp-remix-by-fern) |
 | **Airborne (VIP Remix)** | Rhythmic, Heavy Drop | [Liri0n](url) | [SoundCloud Track](https://soundcloud.com/liri0n/airborne-vip-remix-read-desc) |
-
+**There's more but play the full game if you want to see**
 ## 🛠️ Project Goals & Features
 * **Audio Enhancements:** Remastered instrumentals, tuned vocals, and polished soundscapes.
 * **Custom Charts:** Fresh charts designed for higher intensity and fresh gameplay mechanics. 
